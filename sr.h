@@ -2,7 +2,6 @@
 #define SR_H
 
 #include <stdbool.h>
-#include "emulator.h"
 #include "gbn.h"
 
 #define RTT 16.0
